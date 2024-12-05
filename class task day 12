@@ -1,0 +1,15 @@
+# class-Task-12-day
+abstract class buddy{
+private string name;
+private int age;
+//constructor
+public buddy(string name,int age)
+{
+this.name=name;
+this.age=age;
+}
+public void displayInfo ()
+{
+System.println("Name":+ name "Age":+ Age):
+}
+}
